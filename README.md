@@ -1,6 +1,6 @@
 # ###gitrevert
 this is README file in the gitrevert repository
-##Steps to use gitrevert
+###Steps to use gitrevert
 -Create repository
 -Clone into local
 -git add, git commit, git push
@@ -8,3 +8,5 @@ this is README file in the gitrevert repository
 '''git log --oneline'''  It shows one line commands
 '''git revert <commie id> '''
 '''git push'''
+
+  
